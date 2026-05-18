@@ -1,0 +1,7 @@
+name = input ("Who's a good boy? ")
+print(name + " is a good boy!")
+name2 = input("Who ELSE is a good boy? ")
+print(name2 + " is a good boy!")
+name3 = input("Now, write a list of all of your FAVORITE people's names separated by a space, not a comma. Hit the space bar at the end. ")
+result = name3.replace(" ", " is a sweet kid, ")
+print (result)

@@ -1,20 +1,16 @@
+# Lake Compounce Pay Calculator
+
+This is a Python project I made to estimate my pay from working as a ride operator at Lake Compounce.
+
 ## What It Does
 
-- Asks how many hours I worked
-- Asks for my hourly wage
-- Asks what percent is taken out for Connecticut tax/withholding
-- Calculates my gross pay
-- Calculates the estimated withholding
-- Calculates my estimated take-home pay
+- Takes the number of hours worked
+- Takes the hourly wage
+- Asks for the percent taken out for tax/withholding
+- Calculates gross pay
+- Calculates estimated withholding
+- Calculates estimated take-home pay
 
 ## Why I Built It
 
-- I built this because I wanted to make a useful Python project
-- It connects to real life because I work an hourly job
-- It helps me estimate how much money I will actually take home
-- It helped me practice:
-  - `input()`
-  - `float()`
-  - variables
-  - basic math
-  - `print()` statements
+I built this to practice Python basics while making something useful for my job. It helped me practice user input, variables, math, and printing results in a clean way.

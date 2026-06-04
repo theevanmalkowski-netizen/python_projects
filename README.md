@@ -10,5 +10,5 @@ An advanced version of a calculator-style project inspired by CS50P practice.
 ### goodboy.py
 A fun Python project I made while experimenting with code.
 
-### Lake Compounce Paycheck Estimator (WIP)
+### Lake Compounce Paycheck Estimator
 A paycheck estimator for my seasonal job that calculates gross pay, estimated withholding, overtime, and take-home pay.
